@@ -92,7 +92,7 @@ Stuff that I have thought about, only begun implementing or abandoned for some r
 
 - [JDA-Utilities](https://github.com/JDA-Applications/JDA-Utilities): Wrote a `TableBuilder` class to create string tables
 - [discljord](https://github.com/IGJoshua/discljord): Wrote several utility namespaces and a [leiningen template](https://github.com/JohnnyJayJay/discljord-template)
-- [learn-regex](https://github.com/JohnnyJayJay/learn-regex): Revised and finished the German translation
+- [learn-regex](https://github.com/ziishaned/learn-regex): Revised and finished the German translation
 - [AdventOfCode-2019](https://github.com/jkoenig134/AdventOfCode-2019): Wrote Clojure solutions for the [advent of code](https://adventofcode.com/) challenges
 - [DevcordBot](https://github.com/devcordde/DevcordBot): Wrote a command for the Discord bot of a German developer Discord server
 
