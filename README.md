@@ -16,8 +16,7 @@ Projects related to the Minecraft server software [Spigot](https://spigotmc.org)
   - state: alpha
   - big feature additions planned
 - [spigot-maps](https://github.com/JohnnyJayJay/spigot-maps): A library to put custom images and text on Minecraft map items
-  - state: usable, some issues left to fix
-  - currently undergoing revision
+  - state: stable, version 2.1
   - some frequently requested features still to be added
 - [spiglin](https://github.com/JohnnyJayJay/spiglin): A collection of facilities for people programming Spigot plugins using the [Kotlin](https://kotlinlang.org) programming language
   - state: stable
@@ -27,9 +26,7 @@ Projects related to the Minecraft server software [Spigot](https://spigotmc.org)
   - still needs more infrastructure (official website, logo, SpigotMC account, etc.)
   - **contributors welcome**: read the [contribution guidelines and information](https://github.wlosp.org/contribute) and [request an invite](https://join.wlosp.org)
 - [presents](https://github.wlosp.org/presents): A Spigot plugin that lets you create and hide presents in your Minecraft world
-  - state: unreleased
-  - needs more features (e.g. present effects)
-  - needs documentation
+  - state: released
   
 ### Other
 
