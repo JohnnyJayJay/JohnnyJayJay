@@ -92,6 +92,8 @@ Stuff that I have thought about, only begun implementing or abandoned for some r
 - [learn-regex](https://github.com/ziishaned/learn-regex): Revised and finished the German translation
 - [AdventOfCode-2019](https://github.com/jkoenig134/AdventOfCode-2019): Wrote Clojure solutions for the [advent of code](https://adventofcode.com/) challenges
 - [DevcordBot](https://github.com/devcordde/DevcordBot): Wrote a command for the Discord bot of a German developer Discord server
+- [spigot-plugin-resources](https://github.com/Paul2708/spigot-plugin-resources): Revised the api repository and added a file about server software
+- [pdm](https://github.com/knightzmc/pdm): Added a convenience way to load dependencies before plugin instantiation
 
 ## Commissions
 
