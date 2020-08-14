@@ -43,6 +43,7 @@ None-Spigot projects.
 - [Genius Twitter Bot](https://github.com/JohnnyJayJay/genius-twitter-bot): Twitter bot that posts random lyrics from a given artist x times a day
   - due to changes in Genius web page layout, some new scraping bugs are occuring that need to be fixed
   - active here: [@bobooftheday](https://twitter.com/bobooftheday)
+- [The Lick Bot](https://github.com/johnnyjayjay/lick_wikipedia_bot): Twitter bot that posts the infamous ["Lick"](https://www.youtube.com/watch?v=krDxhnaKD7Q) with matching  lyrics taken from Wikipedia titles - see [@thelickbot](https://twitter.com/thelickbot)
 - [javadox](https://github.com/JohnnyJayJay/javadox): An HTML javadoc parser written in Kotlin
   - state: I hate HTML scraping
   - will it ever work correctly?
@@ -72,8 +73,6 @@ Stuff that I have thought about, only begun implementing or abandoned for some r
   - some unresolved issues with the current spec (e.g. function definition)
   - not entirely clear how to implement it
   - more research into the concepts of [plain English programming](https://osmosianplainenglishprogramming.blog/) could be useful as a directive
-- [The Lick Bot](https://github.com/ashbash1987/lick_wikipedia_bot): Twitter bot that posts the infamous ["Lick"](https://www.youtube.com/watch?v=krDxhnaKD7Q) with matching  lyrics taken from Wikipedia titles
-  - although finished, the bot never went online - should do it myself some day
 - [Telegram Schedule Bot](https://github.com/JohnnyJayJay/telegram-schedule-bot): A Telegram bot to notify me of schedule changes from my school
   - some critical, unfixed bugs left
   - kinda pointless now that I don't go to school anymore
