@@ -51,6 +51,7 @@ None-Spigot projects.
   - state: unreleased
   - needs more documentation (a lot more wiki pages as well as javadoc is planned)
   - support for multi-pattern matching on command methods planned
+- [servant](https://github.com/johnnyjayjay/servant): A super basic file server and browser with basic authentication
 - Multiplayer Connect Four Game (not public yet)
   - state: complete, except for AI
   - school project
