@@ -4,6 +4,9 @@ I am a hobby software developer with particular interest in the JVM and its lang
 
 In my spare time, I prefer writing libraries and tools for other programmers over applications with user interfaces. This reflects upon the majority of my open source projects.
 
+[![Johnny's github stats](https://github-readme-stats.vercel.app/api?username=johnnyjayjay&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Projects
 
 Here is a (selected) list of projects I'm currently working on or have worked on in the past - paid commissions are not included here. I am the only contributor in most cases, so help is always appreciated!
