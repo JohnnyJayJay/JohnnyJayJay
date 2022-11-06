@@ -14,4 +14,5 @@ In my spare time, I prefer writing libraries and tools for other programmers ove
   - Discord: `Johnny#3826` (I do not accept friend requests from strangers at the moment - however my DMs are open and you can find me on many programming servers, e.g. [The Coding Den](https://discord.gg/code))
   - Email: johnnyjayjay02(at)gmail.com\
     Use [OpenPGP email encryption](https://emailselfdefense.fsf.org)! My public key: [`3af27aeb02ddb415`](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x97c08c1541a326153b85aaec3af27aeb02ddb415)
+  - Mastodon: <a rel="me" href="https://chaos.social/@johnny">@johnny@chaos.social</a>
   
