@@ -7,7 +7,8 @@ In my spare time, I prefer writing libraries and tools for other programmers ove
 [![Johnny's github stats](https://github-readme-stats.vercel.app/api?username=johnnyjayjay&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 **I’m currently working on** [discljord](https://github.com/IGJoshua/discljord) and a couple of own libraries and Discord bot projects
-- 🌱 **I’m currently learning** open source licensing  and FIDO2/WebAuthn authentication
+- 🌱 **I’m currently learning** ActivityPub, FIDO2/WebAuthn, Natural Language Processing
+
 - 🤔 **I’m looking for help with** [javidaloca](https://github.com/JohnnyJayJay/javidaloca), my prototype Java bindings to [fluent-rs](https://github.com/projectfluent/fluent-rs)
 - 💬 **Ask me about** Clojure, my projects and my experience studying computer science
 - 📫 **How to reach me:**
