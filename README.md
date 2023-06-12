@@ -12,7 +12,7 @@ In my spare time, I prefer writing libraries and tools for other programmers ove
 - 🤔 **I’m looking for help with** [javidaloca](https://github.com/JohnnyJayJay/javidaloca), my prototype Java bindings to [fluent-rs](https://github.com/projectfluent/fluent-rs)
 - 💬 **Ask me about** Clojure, my projects and my experience studying computer science
 - 📫 **How to reach me:**
-  - Discord: `Johnny#3826` (I do not accept friend requests from strangers at the moment - however my DMs are open and you can find me on many programming servers, e.g. [The Coding Den](https://discord.gg/code))
+  - Matrix: `@johnny:yatrix.org`
   - Email: johnnyjayjay02(at)gmail.com\
     Use [OpenPGP email encryption](https://emailselfdefense.fsf.org)! My public key: [`3af27aeb02ddb415`](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x97c08c1541a326153b85aaec3af27aeb02ddb415)
   - Mastodon: <a rel="me" href="https://chaos.social/@johnny">`@johnny@chaos.social`</a>
