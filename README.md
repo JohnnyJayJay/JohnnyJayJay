@@ -1,3 +1,5 @@
+I still run my blog on GitHub pages and will continue to contribute to projects if they're hosted on GitHub, but for new personal projects I have moved to [Codeberg](https://codeberg.org/johnnyjayjay). 
+
 ### Hi there 👋
 
 I am a both a hobbyist and professional programmer with a particular interest in the JVM and its languages (Java, Kotlin, Clojure). I also feel comfortable with Python and have basic knowledge of C, Rust and frontend web development (HTML, CSS, JavaScript). I have a general interest in functional programming and theoretical computer science.
